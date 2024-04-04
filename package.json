@@ -1,6 +1,6 @@
 {
   "name": "mgtkas2-1253-simple-calculator",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "Simple calculator using Typescript, node.js & Inquirer",
   "main": "index.js",
   "type": "module",
